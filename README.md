@@ -115,7 +115,7 @@ This project taught me fundamental lessons about cloud architecture that extend 
 
 I also gained practical experience in troubleshooting—from diagnosing DNS propagation delays to understanding cache invalidation in CloudFront. These challenges taught me the importance of systematic debugging and consulting AWS documentation effectively. Most importantly, I learned that good cloud architecture isn't about using the most services, but choosing the right services that work together efficiently.
 
-**Project Repository:** [GitHub Link]
+**Project Repository:** https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Project-1.md
 
 ## 💪 What I Bring
 
