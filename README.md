@@ -1,16 +1,94 @@
-## Hi there 👋
+# 👋 Hello! I'm Keketso
 
-<!--
-**keketso-prog/keketso-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A dedicated learner with a growing passion for cloud computing and a clear vision of building a career as a Cloud Solutions Architect. My journey into tech is fueled by curiosity about how cloud technologies can revolutionize the way we build, scale, and deliver digital solutions.
 
-Here are some ideas to get you started:
+I am deeply passionate about cloud computing because I see it as the foundation of modern innovation. The ability to architect scalable, secure, and cost-effective solutions that can transform businesses fascinates me. My goal is to master the technical depths of cloud infrastructure while developing the strategic thinking required to design solutions that truly solve real-world problems. This passion drives my commitment to continuous learning and my determination to contribute meaningfully to the cloud ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+### Background
+
+My journey into cloud computing represents a deliberate career pivot toward technology. What sets me apart is my approach to learning—I don't just aim to understand how services work, but why certain architectural decisions matter. I'm building my expertise with a user-centric mindset, always considering how technical solutions translate into business value and improved user experiences.
+
+### AWS re/Start Journey
+
+I recently completed the intensive AWS re/Start program, where I built a strong foundation in cloud technologies. This transformative experience provided me with:
+
+- **Comprehensive technical knowledge** of core AWS services and their strategic applications
+- **Deep understanding** of cloud best practices in security, cost optimization, and operational excellence  
+- **Problem-solving methodologies** specifically tailored for cloud environments
+- **Professional skills** including effective communication, collaboration, and technical presentation abilities
+
+This holistic program has equipped me with both the technical capabilities and the analytical mindset essential for a successful career in cloud computing. I am now focused on securing an entry-level cloud position where I can apply my knowledge, contribute to real projects, and continue building the expertise necessary to grow into a Cloud Solutions Architect role.
+
+## 🏆 Badges
+
+*[Your AWS badges will go here]*
+
+## 🛠️ Skills & Technologies
+
+I have hands-on experience with the Amazon Web Services (AWS) platform, with practical knowledge of core services including EC2, S3, CloudFront, Route 53, IAM, and Certificate Manager. I understand and apply fundamental cloud concepts such as scalability, security, cost optimization, and infrastructure design principles gained through the AWS re/Start program.
+
+**Soft Skills Include:**
+- Problem-Solving
+- Attention to Detail  
+- Quick Learner
+- Self-Motivated
+- Adaptability
+
+## 📂 Projects
+
+A showcase of the practical work I've completed during the AWS re/Start program. Through hands-on projects, I've developed real-world skills in designing, deploying, and managing cloud solutions on Amazon Web Services.
+
+### Project: S3 Static Website Hosting
+
+This project demonstrates the migration of a static website to AWS cloud infrastructure, showcasing how modern web content can be delivered globally with high performance, security, and cost-efficiency. The objective was to architect a complete hosting solution using AWS managed services, implementing industry best practices for static content delivery.
+
+**What I Built:**
+
+A fully functional static website hosted entirely on AWS, featuring:
+- Secure HTTPS delivery with SSL/TLS encryption
+- Global content distribution for optimal load times
+- Custom domain configuration with professional DNS management
+- Cost-optimized architecture using AWS Free Tier services
+
+**AWS Services Utilized:**
+
+- **Amazon S3** – Object storage configured for static website hosting with properly secured bucket policies
+- **Amazon CloudFront** – Content Delivery Network (CDN) for caching and accelerated global content delivery
+- **AWS Route 53** – DNS service for custom domain routing and traffic management
+- **AWS Certificate Manager** – Free SSL/TLS certificates for secure HTTPS connections
+
+**Technical Implementation:**
+
+This project required me to understand how multiple AWS services integrate to create a cohesive solution. I configured an S3 bucket with static website hosting enabled, ensuring proper public access permissions while maintaining security best practices. I then created a CloudFront distribution to serve content from multiple edge locations worldwide, significantly reducing latency for global users.
+
+The integration of Route 53 allowed me to configure a custom domain with proper DNS records, while Certificate Manager provided SSL/TLS certificates to enable HTTPS—a critical requirement for modern web security. I configured origin access identity to ensure CloudFront could access S3 content while keeping the bucket itself private, demonstrating the security principle of least privilege.
+
+**Key Learnings:**
+
+This project taught me fundamental lessons about cloud architecture that extend far beyond hosting a simple website. I learned how to think about content delivery at scale, understanding the trade-offs between cost, performance, and security. Working through permission issues between S3 and CloudFront deepened my understanding of IAM policies and how AWS services authenticate with each other.
+
+I also gained practical experience in troubleshooting—from diagnosing DNS propagation delays to understanding cache invalidation in CloudFront. These challenges taught me the importance of systematic debugging and consulting AWS documentation effectively. Most importantly, I learned that good cloud architecture isn't about using the most services, but choosing the right services that work together efficiently.
+
+**Project Link:** [Your GitHub repository link]
+
+## Conclusion
+
+My journey into cloud computing is a continuous path of learning and growth. This repository represents the foundation I'm building—a testament to my dedication and the practical skills I'm developing through the AWS re/Start program. I am excited to apply this knowledge in a professional environment, collaborate with experienced cloud professionals, and contribute to building innovative solutions on the AWS platform.
+
+As I continue this journey, I'm committed to expanding my technical expertise, taking on more complex architectural challenges, and ultimately becoming the kind of Cloud Solutions Architect who can bridge the gap between business needs and technical excellence.
+
+## 🤝 Let's Connect!
+
+I'm always eager to connect with fellow cloud enthusiasts, mentors, and professionals in the tech industry. Whether you'd like to discuss cloud technologies, share learning resources, or explore collaboration opportunities, feel free to reach out.
+
+**📧 Email:** [keketsomakhoali93@gmail.com]
+**💼 LinkedIn: [Your LinkedIn profile]
+**📍 Location:** Johannesburg, South Africa
+
+
+
+
+
+
