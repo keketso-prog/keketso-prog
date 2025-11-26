@@ -69,6 +69,24 @@ Completed hands-on labs and assessments
 AWS Cloud Quest: 12 quests completed
 AWS Cloud Practitioner certification
 
+🎯 Career Goals
+Short-term: I'm seeking opportunities as a Cloud Support Specialist or Junior Cloud Engineer where I can apply my AWS knowledge and continue learning.
+
+Long-term: My aspiration is to become an AWS Solutions Architect, helping organizations solve real-world problems through cloud technology.
+
+What excites me:
+
+Cloud infrastructure and architecture
+Security and best practices
+Automation and efficiency
+Helping businesses migrate to the cloud
+Continuous learning and growth
+💪 What I Bring
+Dedication: I don't give up when things get tough
+Reliability: You can count on me to deliver
+Growth Mindset: Always eager to learn and improve
+Attention to Detail: From my administrative background
+
 ## 📂 Projects
 
 A showcase of the practical work I've completed during the AWS re/Start program. Through hands-on projects, I've developed real-world skills in designing, deploying, and managing cloud solutions on Amazon Web Services.
