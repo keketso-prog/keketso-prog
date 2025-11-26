@@ -39,6 +39,36 @@ I have hands-on experience with the Amazon Web Services (AWS) platform, with pra
 - Self-Motivated
 - Adaptability
 
+  💻 Technical Skills
+Cloud Computing (AWS):
+
+Amazon EC2 (Virtual Servers)
+Amazon S3 (Storage Solutions)
+Amazon RDS & DynamoDB
+VPC & Networking
+IAM (Identity and Access Management)
+Auto Scaling & Load Balancing
+Cloud Economics & Cost Optimization
+Linux & Networking:
+
+Command line basics
+File management and permissions
+Bash scripting essentials
+IP addressing and subnets
+VPC configuration
+Security groups and firewalls
+Network troubleshooting
+Diploma in Information Technology
+
+Foundational IT principles and concepts
+
+🎓 Education & Training
+AWS re/Start Program - 12-Week Intensive Cloud Computing Training
+
+Completed hands-on labs and assessments
+AWS Cloud Quest: 12 quests completed
+AWS Cloud Practitioner certification
+
 ## 📂 Projects
 
 A showcase of the practical work I've completed during the AWS re/Start program. Through hands-on projects, I've developed real-world skills in designing, deploying, and managing cloud solutions on Amazon Web Services.
