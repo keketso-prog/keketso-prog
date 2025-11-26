@@ -38,7 +38,7 @@ This holistic program has equipped me with both the technical capabilities and t
 
 ## 🏆 Certifications & Badges
 
-![AWS Cloud Quest - Cloud Practitioner](aws-cloud-quest-cloud-practitioner-training-badge)
+<img width="601" height="601" alt="aws-cloud-quest-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/99498097-643b-4627-ba00-8f5f56a139cb" />
 
 ## 🛠️ Skills & Technologies
 
