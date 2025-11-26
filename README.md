@@ -10,88 +10,81 @@ I am deeply passionate about cloud computing because I see it as the foundation 
 
 My professional background is in administrative work, where I developed strong organizational skills, attention to detail, and the ability to work efficiently under pressure. While my experience was non-technical, I've always been curious about technology and how things work behind the scenes. This curiosity led me to take the leap into cloud computing!
 
-I'm naturally hardworking, honest, and kind. I believe in giving my best to everything I do, and I'm committed to continuous learning and growth.
-My journey into cloud computing represents a deliberate career pivot toward technology. What sets me apart is my approach to learning—I don't just aim to understand how services work, but why certain architectural decisions matter. I'm building my expertise with a user-centric mindset, always considering how technical solutions translate into business value and improved user experiences.
+I'm naturally hardworking, honest, and kind. I believe in giving my best to everything I do, and I'm committed to continuous learning and growth. My journey into cloud computing represents a deliberate career pivot toward technology. What sets me apart is my approach to learning—I don't just aim to understand how services work, but why certain architectural decisions matter. I'm building my expertise with a user-centric mindset, always considering how technical solutions translate into business value and improved user experiences.
 
 ### AWS re/Start Journey
 
 I recently completed the intensive AWS re/Start program, where I built a strong foundation in cloud technologies. This transformative experience provided me with:
 
 - **Comprehensive technical knowledge** of core AWS services and their strategic applications
-- **Deep understanding** of cloud best practices in security, cost optimization, and operational excellence  
+- **Deep understanding** of cloud best practices in security, cost optimization, and operational excellence
 - **Problem-solving methodologies** specifically tailored for cloud environments
 - **Professional skills** including effective communication, collaboration, and technical presentation abilities
 
 This holistic program has equipped me with both the technical capabilities and the analytical mindset essential for a successful career in cloud computing. I am now focused on securing an entry-level cloud position where I can apply my knowledge, contribute to real projects, and continue building the expertise necessary to grow into a Cloud Solutions Architect role.
 
-## 🏆 Badges
+## 🎯 Career Goals
 
-<img width="601" height="601" alt="aws-cloud-quest-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/99498097-643b-4627-ba00-8f5f56a139cb" />
+**Short-term:** I'm seeking opportunities as a Cloud Support Specialist or Junior Cloud Engineer where I can apply my AWS knowledge and continue learning.
+
+**Long-term:** My aspiration is to become an AWS Solutions Architect, helping organizations solve real-world problems through cloud technology.
+
+**What excites me:**
+- Cloud infrastructure and architecture
+- Security and best practices
+- Automation and efficiency
+- Helping businesses migrate to the cloud
+- Continuous learning and growth
+
+## 🏆 Certifications & Badges
+
+![AWS Cloud Quest - Cloud Practitioner](aws-cloud-quest-cloud-practitioner-training-badge)
 
 ## 🛠️ Skills & Technologies
 
-I have hands-on experience with the Amazon Web Services (AWS) platform, with practical knowledge of core services including EC2, S3, CloudFront, Route 53, IAM, and Certificate Manager. I understand and apply fundamental cloud concepts such as scalability, security, cost optimization, and infrastructure design principles gained through the AWS re/Start program.
+### Cloud Computing (AWS)
+- Amazon EC2 (Virtual Servers)
+- Amazon S3 (Storage Solutions)
+- Amazon RDS & DynamoDB
+- VPC & Networking
+- IAM (Identity and Access Management)
+- Auto Scaling & Load Balancing
+- CloudFront (Content Delivery)
+- Route 53 (DNS Management)
+- Certificate Manager
+- Cloud Economics & Cost Optimization
 
-**Soft Skills Include:**
+### Linux & Networking
+- Command line basics
+- File management and permissions
+- Bash scripting essentials
+- IP addressing and subnets
+- VPC configuration
+- Security groups and firewalls
+- Network troubleshooting
+
+### Professional Skills
 - Problem-Solving
-- Attention to Detail  
+- Attention to Detail
 - Quick Learner
 - Self-Motivated
 - Adaptability
+- Effective Communication
+- Collaboration
 
-  💻 Technical Skills
-Cloud Computing (AWS):
+## 🎓 Education & Training
 
-Amazon EC2 (Virtual Servers)
-Amazon S3 (Storage Solutions)
-Amazon RDS & DynamoDB
-VPC & Networking
-IAM (Identity and Access Management)
-Auto Scaling & Load Balancing
-Cloud Economics & Cost Optimization
-Linux & Networking:
+**AWS re/Start Program** - 12-Week Intensive Cloud Computing Training
+- Completed hands-on labs and assessments
+- AWS Cloud Quest: 12 quests completed
+- AWS Cloud Practitioner certification preparation
 
-Command line basics
-File management and permissions
-Bash scripting essentials
-IP addressing and subnets
-VPC configuration
-Security groups and firewalls
-Network troubleshooting
-Diploma in Information Technology
+**Diploma in Information Technology**
+- Foundational IT principles and concepts
 
-Foundational IT principles and concepts
+## 📂 Featured Project
 
-🎓 Education & Training
-AWS re/Start Program - 12-Week Intensive Cloud Computing Training
-
-Completed hands-on labs and assessments
-AWS Cloud Quest: 12 quests completed
-AWS Cloud Practitioner certification
-
-🎯 Career Goals
-Short-term: I'm seeking opportunities as a Cloud Support Specialist or Junior Cloud Engineer where I can apply my AWS knowledge and continue learning.
-
-Long-term: My aspiration is to become an AWS Solutions Architect, helping organizations solve real-world problems through cloud technology.
-
-What excites me:
-
-Cloud infrastructure and architecture
-Security and best practices
-Automation and efficiency
-Helping businesses migrate to the cloud
-Continuous learning and growth
-💪 What I Bring
-Dedication: I don't give up when things get tough
-Reliability: You can count on me to deliver
-Growth Mindset: Always eager to learn and improve
-Attention to Detail: From my administrative background
-
-## 📂 Projects
-
-A showcase of the practical work I've completed during the AWS re/Start program. Through hands-on projects, I've developed real-world skills in designing, deploying, and managing cloud solutions on Amazon Web Services.
-
-### Project: S3 Static Website Hosting
+### Static Website Hosting on AWS
 
 This project demonstrates the migration of a static website to AWS cloud infrastructure, showcasing how modern web content can be delivered globally with high performance, security, and cost-efficiency. The objective was to architect a complete hosting solution using AWS managed services, implementing industry best practices for static content delivery.
 
@@ -122,21 +115,30 @@ This project taught me fundamental lessons about cloud architecture that extend 
 
 I also gained practical experience in troubleshooting—from diagnosing DNS propagation delays to understanding cache invalidation in CloudFront. These challenges taught me the importance of systematic debugging and consulting AWS documentation effectively. Most importantly, I learned that good cloud architecture isn't about using the most services, but choosing the right services that work together efficiently.
 
-**Project Link:** [Your GitHub repository link]
+**Project Repository:** [GitHub Link]
 
-## Conclusion
+## 💪 What I Bring
 
-My journey into cloud computing is a continuous path of learning and growth. This repository represents the foundation I'm building—a testament to my dedication and the practical skills I'm developing through the AWS re/Start program. I am excited to apply this knowledge in a professional environment, collaborate with experienced cloud professionals, and contribute to building innovative solutions on the AWS platform.
-
-As I continue this journey, I'm committed to expanding my technical expertise, taking on more complex architectural challenges, and ultimately becoming the kind of Cloud Solutions Architect who can bridge the gap between business needs and technical excellence.
+- **Dedication:** I don't give up when things get tough
+- **Reliability:** You can count on me to deliver
+- **Growth Mindset:** Always eager to learn and improve
+- **Attention to Detail:** Developed through my administrative background
 
 ## 🤝 Let's Connect!
 
 I'm always eager to connect with fellow cloud enthusiasts, mentors, and professionals in the tech industry. Whether you'd like to discuss cloud technologies, share learning resources, or explore collaboration opportunities, feel free to reach out.
 
-**📧 Email:**keketsomakhoali93@gmail.com
-**💼 LinkedIn:** Keketso Bakaqane
+**📧 Email:** keketsomakhoali93@gmail.com  
+**💼 LinkedIn:** [Keketso Bakaqane](https://www.linkedin.com/in/keketso-bakaqane)  
 **📍 Location:** Johannesburg, South Africa
+
+
+## 📈 My Journey
+
+My journey into cloud computing is a continuous path of learning and growth. This profile represents the foundation I'm building—a testament to my dedication and the practical skills I'm developing through the AWS re/Start program. I am excited to apply this knowledge in a professional environment, collaborate with experienced cloud professionals, and contribute to building innovative solutions on the AWS platform.
+
+As I continue this journey, I'm committed to expanding my technical expertise, taking on more complex architectural challenges, and ultimately becoming the kind of Cloud Solutions Architect who can bridge the gap between business needs and technical excellence.
+
 
 
 
