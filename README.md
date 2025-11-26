@@ -8,6 +8,9 @@ I am deeply passionate about cloud computing because I see it as the foundation 
 
 ### Background
 
+My professional background is in administrative work, where I developed strong organizational skills, attention to detail, and the ability to work efficiently under pressure. While my experience was non-technical, I've always been curious about technology and how things work behind the scenes. This curiosity led me to take the leap into cloud computing!
+
+I'm naturally hardworking, honest, and kind. I believe in giving my best to everything I do, and I'm committed to continuous learning and growth.
 My journey into cloud computing represents a deliberate career pivot toward technology. What sets me apart is my approach to learning—I don't just aim to understand how services work, but why certain architectural decisions matter. I'm building my expertise with a user-centric mindset, always considering how technical solutions translate into business value and improved user experiences.
 
 ### AWS re/Start Journey
