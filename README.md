@@ -84,7 +84,7 @@ This holistic program has equipped me with both the technical capabilities and t
 
 ## 📂 Featured Project
 
-### 1.Static Website Hosting on AWS
+## 1. Static Website Hosting on AWS
 
 This project demonstrates the migration of a static website to AWS cloud infrastructure, showcasing how modern web content can be delivered globally with high performance, security, and cost-efficiency. The objective was to architect a complete hosting solution using AWS managed services, implementing industry best practices for static content delivery.
 
@@ -117,7 +117,7 @@ I also gained practical experience in troubleshooting—from diagnosing DNS prop
 
 **Project Repository:** https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Project-1.md
 
-## 2.Design a 3D E-Commerce Platform Architecture on AWS
+## 2. Design a 3D E-Commerce Platform Architecture on AWS
 
 The cloud architecture for the 3D e-commerce platform is designed using AWS managed services to ensure high availability, scalability, performance, security, and cost efficiency. The system uses a globally distributed content delivery layer, scalable compute resources, secure data stores, and automated monitoring tool
 
