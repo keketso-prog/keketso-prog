@@ -146,7 +146,7 @@ This project taught us how different AWS services work together to support a hig
 
 Most importantly, we learned how to design cloud solutions that balance performance, security, scalability, and cost—selecting the right services and integrating them effectively to support a real-world application. 
 
-**Project Repository:** https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Project-2.md
+**Project Repository:** https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/3D-architecture-project.md
 
 ## 💪 What I Bring
 
