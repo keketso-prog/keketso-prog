@@ -96,7 +96,7 @@ A fully functional static website hosted entirely on AWS, featuring:
 - Custom domain configuration with professional DNS management
 - Cost-optimized architecture using AWS Free Tier services
 
-**AWS Services Utilized:**
+## Some of the AWS Services Utilized:**
 
 - **Amazon S3** – Object storage configured for static website hosting with properly secured bucket policies
 - **Amazon CloudFront** – Content Delivery Network (CDN) for caching and accelerated global content delivery
@@ -117,7 +117,36 @@ I also gained practical experience in troubleshooting—from diagnosing DNS prop
 
 **Project Repository:** https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Project-1.md
 
-## 2.
+## 2.Design a 3D E-Commerce Platform Architecture on AWS
+
+The cloud architecture for the 3D e-commerce platform is designed using AWS managed services to ensure high availability, scalability, performance, security, and cost efficiency. The system uses a globally distributed content delivery layer, scalable compute resources, secure data stores, and automated monitoring tool
+
+## What we did
+This project was a group effort completed alongside my fellow team members. We worked together to plan the architecture, choose the AWS services, and create all diagrams and documentation.
+
+## Some of the AWS Services Utilized:**
+
+- Amazon S3 for 3D asset storage
+- CloudFront for content delivery
+- EC2 / AWS Lambda for backend compute
+- RDS / DynamoDB for product and customer data
+- Elastic Load Balancer (ELB) for traffic distribution
+- Route 53 for domain management
+- CloudWatch & Trusted Advisor for monitoring and optimization
+
+## Technical Implementation
+
+For this project, our team integrated several AWS services to build a scalable and efficient 3D e-commerce architecture. We used Amazon S3 to store 3D assets securely, paired with CloudFront to deliver content globally with low latency. Route 53 was configured for domain management, while Certificate Manager handled SSL/TLS certificates to ensure secure HTTPS access.
+
+We implemented EC2 with Auto Scaling (or Lambda for lighter workloads) behind an Elastic Load Balancer to support backend processing and handle traffic spikes. RDS or DynamoDB provided reliable, multi-AZ database storage. CloudWatch and Trusted Advisor were used to monitor performance, optimize cost, and reinforce best security practices across the environment.
+
+## Key Learnings
+
+This project taught us how different AWS services work together to support a high-availability, high-performance application. We gained practical experience with CDN delivery, IAM permissions, secure data access, and troubleshooting common issues such as DNS delays and caching behaviors.
+
+Most importantly, we learned how to design cloud solutions that balance performance, security, scalability, and cost—selecting the right services and integrating them effectively to support a real-world application. 
+
+**Project Repository:** 
 
 ## 💪 What I Bring
 
