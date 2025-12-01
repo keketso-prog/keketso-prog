@@ -84,11 +84,11 @@ This holistic program has equipped me with both the technical capabilities and t
 
 ## 📂 Featured Project
 
-### Static Website Hosting on AWS
+### 1.Static Website Hosting on AWS
 
 This project demonstrates the migration of a static website to AWS cloud infrastructure, showcasing how modern web content can be delivered globally with high performance, security, and cost-efficiency. The objective was to architect a complete hosting solution using AWS managed services, implementing industry best practices for static content delivery.
 
-**What I Built:**
+**What we Built:**
 
 A fully functional static website hosted entirely on AWS, featuring:
 - Secure HTTPS delivery with SSL/TLS encryption
@@ -105,9 +105,9 @@ A fully functional static website hosted entirely on AWS, featuring:
 
 **Technical Implementation:**
 
-This project required me to understand how multiple AWS services integrate to create a cohesive solution. I configured an S3 bucket with static website hosting enabled, ensuring proper public access permissions while maintaining security best practices. I then created a CloudFront distribution to serve content from multiple edge locations worldwide, significantly reducing latency for global users.
+This project required me to understand how multiple AWS services integrate to create a cohesive solution. We configured an S3 bucket with static website hosting enabled, ensuring proper public access permissions while maintaining security best practices. We then created a CloudFront distribution to serve content from multiple edge locations worldwide, significantly reducing latency for global users.
 
-The integration of Route 53 allowed me to configure a custom domain with proper DNS records, while Certificate Manager provided SSL/TLS certificates to enable HTTPS—a critical requirement for modern web security. I configured origin access identity to ensure CloudFront could access S3 content while keeping the bucket itself private, demonstrating the security principle of least privilege.
+The integration of Route 53 allowed me to configure a custom domain with proper DNS records, while Certificate Manager provided SSL/TLS certificates to enable HTTPS—a critical requirement for modern web security. We configured origin access identity to ensure CloudFront could access S3 content while keeping the bucket itself private, demonstrating the security principle of least privilege.
 
 **Key Learnings:**
 
@@ -116,6 +116,8 @@ This project taught me fundamental lessons about cloud architecture that extend 
 I also gained practical experience in troubleshooting—from diagnosing DNS propagation delays to understanding cache invalidation in CloudFront. These challenges taught me the importance of systematic debugging and consulting AWS documentation effectively. Most importantly, I learned that good cloud architecture isn't about using the most services, but choosing the right services that work together efficiently.
 
 **Project Repository:** https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Project-1.md
+
+## 2.
 
 ## 💪 What I Bring
 
