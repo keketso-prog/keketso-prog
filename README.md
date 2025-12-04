@@ -110,7 +110,7 @@ This project required me to understand how multiple AWS services integrate to cr
 The integration of Route 53 allowed me to configure a custom domain with proper DNS records, while Certificate Manager provided SSL/TLS certificates to enable HTTPS—a critical requirement for modern web security. We configured origin access identity to ensure CloudFront could access S3 content while keeping the bucket itself private, demonstrating the security principle of least privilege.
 
 
-## Project Repository: https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/static-website-project.md
+ https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/static-website-project.md
 
 ## Project 2. Design a 3D E-Commerce Platform Architecture on AWS
 
@@ -136,7 +136,7 @@ For this project, our team integrated several AWS services to build a scalable a
 We implemented EC2 with Auto Scaling (or Lambda for lighter workloads) behind an Elastic Load Balancer to support backend processing and handle traffic spikes. RDS or DynamoDB provided reliable, multi-AZ database storage. CloudWatch and Trusted Advisor were used to monitor performance, optimize cost, and reinforce best security practices across the environment.
 
 
-## Project Repository: https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/3D-architecture-project.md
+ https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/3D-architecture-project.md
 
 ## 💪 What I Bring
 
