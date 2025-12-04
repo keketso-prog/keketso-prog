@@ -14,14 +14,14 @@ I'm naturally hardworking, honest, and kind. I believe in giving my best to ever
 
 ### AWS re/Start Journey
 
-I recently completed the intensive AWS re/Start program, where I built a strong foundation in cloud technologies. This transformative experience provided me with:
+I recently completed the AWS re/Start program, an intensive training experience that equipped me with foundational cloud computing skills. Through this program, I gained:
 
-- **Comprehensive technical knowledge** of core AWS services and their strategic applications
-- **Deep understanding** of cloud best practices in security, cost optimization, and operational excellence
-- **Problem-solving methodologies** specifically tailored for cloud environments
-- **Professional skills** including effective communication, collaboration, and technical presentation abilities
+- Practical knowledge of core AWS services and their real-world applications
+- Understanding of cloud security, cost management, and operational best practices
+- Hands-on experience with cloud problem-solving and architecture design
+- Professional development in technical communication, teamwork, and presenting solutions
 
-This holistic program has equipped me with both the technical capabilities and the analytical mindset essential for a successful career in cloud computing. I am now focused on securing an entry-level cloud position where I can apply my knowledge, contribute to real projects, and continue building the expertise necessary to grow into a Cloud Solutions Architect role.
+This comprehensive training provided me with both the technical skills and practical mindset needed to work effectively in cloud environments. I'm now seeking an entry-level cloud role where I can apply what I've learned, contribute to meaningful projects, and develop the expertise required to advance toward a Cloud Solutions Architect position.
 
 ## 🎯 Career Goals
 
@@ -84,7 +84,7 @@ This holistic program has equipped me with both the technical capabilities and t
 
 ## 📂 Featured Project
 
-## 1. Static Website Hosting on AWS
+## Project 1. Static Website Hosting on AWS
 
 This project demonstrates the migration of a static website to AWS cloud infrastructure, showcasing how modern web content can be delivered globally with high performance, security, and cost-efficiency. The objective was to architect a complete hosting solution using AWS managed services, implementing industry best practices for static content delivery.
 
@@ -109,15 +109,10 @@ This project required me to understand how multiple AWS services integrate to cr
 
 The integration of Route 53 allowed me to configure a custom domain with proper DNS records, while Certificate Manager provided SSL/TLS certificates to enable HTTPS—a critical requirement for modern web security. We configured origin access identity to ensure CloudFront could access S3 content while keeping the bucket itself private, demonstrating the security principle of least privilege.
 
-**Key Learnings:**
-
-This project taught me fundamental lessons about cloud architecture that extend far beyond hosting a simple website. I learned how to think about content delivery at scale, understanding the trade-offs between cost, performance, and security. Working through permission issues between S3 and CloudFront deepened my understanding of IAM policies and how AWS services authenticate with each other.
-
-I also gained practical experience in troubleshooting—from diagnosing DNS propagation delays to understanding cache invalidation in CloudFront. These challenges taught me the importance of systematic debugging and consulting AWS documentation effectively. Most importantly, I learned that good cloud architecture isn't about using the most services, but choosing the right services that work together efficiently.
 
 **Project Repository:** https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/static-website-project.md
 
-## 2. Design a 3D E-Commerce Platform Architecture on AWS
+## Project 2. Design a 3D E-Commerce Platform Architecture on AWS
 
 The cloud architecture for the 3D e-commerce platform is designed using AWS managed services to ensure high availability, scalability, performance, security, and cost efficiency. The system uses a globally distributed content delivery layer, scalable compute resources, secure data stores, and automated monitoring tool
 
@@ -140,11 +135,6 @@ For this project, our team integrated several AWS services to build a scalable a
 
 We implemented EC2 with Auto Scaling (or Lambda for lighter workloads) behind an Elastic Load Balancer to support backend processing and handle traffic spikes. RDS or DynamoDB provided reliable, multi-AZ database storage. CloudWatch and Trusted Advisor were used to monitor performance, optimize cost, and reinforce best security practices across the environment.
 
-## Key Learnings
-
-This project taught us how different AWS services work together to support a high-availability, high-performance application. We gained practical experience with CDN delivery, IAM permissions, secure data access, and troubleshooting common issues such as DNS delays and caching behaviors.
-
-Most importantly, we learned how to design cloud solutions that balance performance, security, scalability, and cost—selecting the right services and integrating them effectively to support a real-world application. 
 
 **Project Repository:** https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/3D-architecture-project.md
 
