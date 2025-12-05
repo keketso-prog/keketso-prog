@@ -14,9 +14,9 @@ I'm naturally hardworking, honest, and kind. I believe in giving my best to ever
 
 ### AWS re/Start Journey
 
-I recently completed the AWS re/Start program, an intensive training experience that equipped me with foundational cloud computing skills. Through this program. I joined the AWS re/Start program to gain hands-on cloud computing skills and launch a career in the rapidly growing tech industry 
+I recently completed the AWS re/Start program, an intensive training experience that equipped me with foundational cloud computing skills. I joined the AWS re/Start program to gain hands-on cloud computing skills and launch a career in the rapidly growing tech industry 
 
-I gained:
+Through this program i gained:
 
 - Practical knowledge of core AWS services and their real-world applications
 - Understanding of cloud security, cost management, and operational best practices
