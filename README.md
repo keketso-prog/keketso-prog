@@ -140,6 +140,10 @@ We implemented EC2 with Auto Scaling (or Lambda for lighter workloads) behind an
 
  https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/3D-architecture-project.md
 
+
+ # Project 3: Amazon Lex chatbot
+ 
+
 ## 💪 What I Bring
 
 - **Dedication:** I don't give up when things get tough
