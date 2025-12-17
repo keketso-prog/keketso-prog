@@ -142,8 +142,23 @@ We implemented EC2 with Auto Scaling (or Lambda for lighter workloads) behind an
 
 
  # Project 3: Amazon Lex chatbot
- 
 
+This project demonstrates how to build a conversational quiz bot using Amazon Lex that tests learners on their knowledge of Amazon S3. It showcases chatbot design, intent handling, and interactive learning using AWS cloud services.
+ 
+ # What we did
+Built an interactive quiz chatbot using AWS Lambda and Amazon Lex that tests users' knowledge of Amazon S3. The bot guides users through a 10-question quiz with personalized feedback and scoring
+
+# Some of the AWS services used
+
+- Amazon lambda
+- Amazon lex
+
+# Technical implementations
+
+- Built a quiz chatbot using Amazon Lex with custom intents and sample utterances
+- Implemented quiz logic to validate user responses and control conversation flow
+- Integrated AWS Lambda to process user answers and return dynamic responses to Amazon Lex
+  
 ## 💪 What I Bring
 
 - **Dedication:** I don't give up when things get tough
