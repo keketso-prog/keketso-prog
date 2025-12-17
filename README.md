@@ -158,6 +158,8 @@ Built an interactive quiz chatbot using AWS Lambda and Amazon Lex that tests use
 - Built a quiz chatbot using Amazon Lex with custom intents and sample utterances
 - Implemented quiz logic to validate user responses and control conversation flow
 - Integrated AWS Lambda to process user answers and return dynamic responses to Amazon Lex
+
+https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Lex-Chatbot/chatbot.md
   
 ## 💪 What I Bring
 
