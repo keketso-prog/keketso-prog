@@ -40,7 +40,10 @@ This comprehensive training provided me with both the technical skills and pract
 
 ## 🏆 AWS Badges
 
-<img width="601" height="601" alt="aws-cloud-quest-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/99498097-643b-4627-ba00-8f5f56a139cb" />
+<img width="320" height="320" alt="aws-cloud-quest-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/99498097-643b-4627-ba00-8f5f56a139cb" />
+
+<img width="282" height="295" alt="Screenshot (2000)" src="https://github.com/user-attachments/assets/2ea3b39b-c853-4571-aa6c-0394702f6a30" />
+
 
 ## 🛠️ Skills & Technologies
 
