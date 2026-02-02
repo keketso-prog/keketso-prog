@@ -44,6 +44,8 @@ This comprehensive training provided me with both the technical skills and pract
 
 <img width="282" height="295" alt="Screenshot (2000)" src="https://github.com/user-attachments/assets/2ea3b39b-c853-4571-aa6c-0394702f6a30" />
 
+<img width="300" height="340" alt="cloud practitiner" src="https://github.com/user-attachments/assets/cb317476-6424-4a11-b98b-fd2e75065f9b" />
+
 
 ## 🛠️ Skills & Technologies
 
