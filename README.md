@@ -188,6 +188,7 @@ I'm always eager to connect with fellow cloud enthusiasts, mentors, and professi
 
 **📧 Email:** keketsomakhoali93@gmail.com  
 **💼 LinkedIn:** https://www.linkedin.com/in/keketso-bakaqane-674066219/
+
 **📍 Location:** Johannesburg, South Africa
 
 
