@@ -117,7 +117,7 @@ This project required me to understand how multiple AWS services integrate to cr
 The integration of Route 53 allowed me to configure a custom domain with proper DNS records, while Certificate Manager provided SSL/TLS certificates to enable HTTPS—a critical requirement for modern web security. We configured origin access identity to ensure CloudFront could access S3 content while keeping the bucket itself private, demonstrating the security principle of least privilege.
 
 
- https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/static-website-project.md
+ https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Static-Website/Marble-Bistro.md
 
 ## Project 2. Design a 3D E-Commerce Platform Architecture on AWS
 
