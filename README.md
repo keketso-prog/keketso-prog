@@ -187,7 +187,7 @@ As I continue this journey, I'm committed to expanding my technical expertise, t
 I'm always eager to connect with fellow cloud enthusiasts, mentors, and professionals in the tech industry. Whether you'd like to discuss cloud technologies, share learning resources, or explore collaboration opportunities, feel free to reach out.
 
 **📧 Email:** keketsomakhoali93@gmail.com  
-**💼 LinkedIn:** [Keketso Bakaqane](https://www.linkedin.com/in/keketso-bakaqane)  
+**💼 LinkedIn:** (https://www.linkedin.com/in/keketso-bakaqane)  
 **📍 Location:** Johannesburg, South Africa
 
 
