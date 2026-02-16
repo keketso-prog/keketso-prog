@@ -143,7 +143,7 @@ For this project, our team integrated several AWS services to build a scalable a
 We implemented EC2 with Auto Scaling (or Lambda for lighter workloads) behind an Elastic Load Balancer to support backend processing and handle traffic spikes. RDS or DynamoDB provided reliable, multi-AZ database storage. CloudWatch and Trusted Advisor were used to monitor performance, optimize cost, and reinforce best security practices across the environment.
 
 
- https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/3D-architecture-project.md
+ https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/3D-Aarchitecture/3D-design.md
 
 
  # Project 3: Amazon Lex chatbot
