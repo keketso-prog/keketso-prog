@@ -199,7 +199,7 @@ A serverless image recognition pipeline on AWS, featuring:
 - Security by design — I practiced building IAM roles that enforce least-privilege access across all services
 - Observability — I used CloudWatch to monitor every result and metric from every invocation in real time
 
-  
+https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Serverless-Image-Recognition/AWS%20Serverless%20Image%20Recognition%20Pipeline.md  
   
 ## 💪 What I Bring
 
