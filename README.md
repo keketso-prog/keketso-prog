@@ -165,6 +165,41 @@ Built an interactive quiz chatbot using AWS Lambda and Amazon Lex that tests use
 - Integrated AWS Lambda to process user answers and return dynamic responses to Amazon Lex
 
 https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Lex-Chatbot/chatbot.md
+
+
+# Project 4. Serverless Image Recognition Pipeline on AWS
+This project demonstrates how I deployed a fully automated image recognition system on AWS. My objective was to build an event-driven pipeline that analyzes images the moment they are uploaded, using AWS artificial intelligence — with no servers to manage.
+
+# What I Built
+A serverless image recognition pipeline on AWS, featuring:
+
+- Automatic image analysis triggered instantly on file upload
+- AI-powered label detection identifying objects, people, and fine details
+- Secure service communication using IAM least-privilege roles
+- Real-time logging and monitoring through CloudWatch
+
+
+# AWS Services I Used
+
+- Amazon S3 – I used S3 to store uploaded images and trigger the pipeline automatically on each upload
+- AWS Lambda – I wrote a Python function that runs serverlessly in response to S3 events, with no infrastructure required
+- Amazon Rekognition – I connected this AWS AI service to analyze each image and return detected labels with confidence scores
+- AWS IAM – I created a role that grants Lambda only the exact permissions needed to access S3, Rekognition, and CloudWatch
+- Amazon CloudWatch – I used this to capture all logs, results, and execution metrics for every function run
+
+
+# How I Built It
+- I configured an S3 bucket to automatically invoke my Lambda function whenever a new image is uploaded. I wrote the Lambda function in Python using the boto3 SDK, which passes the image directly to Amazon Rekognition and logs the results to CloudWatch. I scoped the IAM execution role to only three policies — AmazonS3ReadOnlyAccess, AmazonRekognitionFullAccess, and AWSLambdaBasicExecutionRole — following the principle of least privilege throughout.
+- When I tested it by uploading a portrait photograph, Rekognition returned the labels: Face, Head, Person, Photography, Portrait, Adult, Male, Man, Baby, and Earring — showing me how the AI identifies both broad categories and fine details within a single image. The function ran with a 100% success rate and zero errors.
+
+# What I Learned
+
+- Event-driven design — I saw firsthand how services can react automatically to uploads with no manual steps
+- Serverless computing — I deployed and ran code without provisioning, patching, or managing any servers
+- Security by design — I practiced building IAM roles that enforce least-privilege access across all services
+- Observability — I used CloudWatch to monitor every result and metric from every invocation in real time
+
+  
   
 ## 💪 What I Bring
 
