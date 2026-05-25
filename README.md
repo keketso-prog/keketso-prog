@@ -62,7 +62,7 @@ https://resumerg9ec1.z1.web.core.windows.net/
 
 💻 Source Code:
 
-https://github.com/your-azure-repo
+https://github.com/keketso-prog/azure-resume
 
 ## 📂 AWS Projects
 1. Static Website Hosting on AWS
