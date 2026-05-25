@@ -24,10 +24,11 @@ Hands-on experience with cloud problem-solving and system design
 Professional communication and teamwork skills
 
 ## 🎓 Certifications
-AWS Certified Cloud Practitioner
+# AWS Certified Cloud Practitioner
 Earned through the AWS re/Start Programme (Praesignis)
 This certification validated my understanding of AWS cloud concepts, core services, security, architecture, and pricing.
-Microsoft Certified: Azure Fundamentals (AZ-900)
+
+# Microsoft Certified: Azure Fundamentals (AZ-900)
 Completed through the YES4Youth Programme
 This certification gave me a strong foundation in Azure services, cloud concepts, governance, and pricing.
 
@@ -39,6 +40,11 @@ This certification gave me a strong foundation in Azure services, cloud concepts
 <img width="282" height="295" alt="Screenshot (2000)" src="https://github.com/user-attachments/assets/2ea3b39b-c853-4571-aa6c-0394702f6a30" />
 
 <img width="300" height="340" alt="cloud practitiner" src="https://github.com/user-attachments/assets/cb317476-6424-4a11-b98b-fd2e75065f9b" />
+
+## 🏆 Azure Badges
+
+<img width="845" height="560" alt="Screenshot (2085)" src="https://github.com/user-attachments/assets/3a7977b0-da70-449f-b726-55f26cbfdf60" />
+
 
 ## ☁️ Azure Cloud Journey
 🚀 Azure Cloud Resume Challenge (Serverless Project)
