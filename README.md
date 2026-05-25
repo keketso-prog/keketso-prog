@@ -22,6 +22,7 @@ Practical knowledge of core AWS services and their real-world applications
 Understanding of cloud security, architecture, and cost management
 Hands-on experience with cloud problem-solving and system design
 Professional communication and teamwork skills
+
 ## 🎓 Certifications
 AWS Certified Cloud Practitioner
 Earned through the AWS re/Start Programme (Praesignis)
@@ -38,6 +39,7 @@ This certification gave me a strong foundation in Azure services, cloud concepts
 <img width="282" height="295" alt="Screenshot (2000)" src="https://github.com/user-attachments/assets/2ea3b39b-c853-4571-aa6c-0394702f6a30" />
 
 <img width="300" height="340" alt="cloud practitiner" src="https://github.com/user-attachments/assets/cb317476-6424-4a11-b98b-fd2e75065f9b" />
+
 ## ☁️ Azure Cloud Journey
 🚀 Azure Cloud Resume Challenge (Serverless Project)
 
@@ -62,7 +64,7 @@ https://resumerg9ec1.z1.web.core.windows.net/
 
 https://github.com/your-azure-repo
 
-📂 AWS Projects
+## 📂 AWS Projects
 1. Static Website Hosting on AWS
 
 I hosted a static website using Amazon S3, CloudFront, Route 53, and AWS Certificate Manager to deliver secure HTTPS content globally.
