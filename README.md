@@ -1,42 +1,35 @@
-# 👋 Hello! I'm Keketso
+## ☁️ Cloud Projects Portfolio
+👋 Hello! I'm Keketso
 
-A dedicated learner with a growing passion for cloud computing and a clear vision of building a career as a Cloud Solutions Architect. My journey into tech is fueled by curiosity about how cloud technologies can revolutionize the way we build, scale, and deliver digital solutions.
+I am a dedicated learner with a growing passion for cloud computing and a clear vision of building a career as a Cloud Solutions Architect. My journey into tech is driven by curiosity about how cloud technologies can transform the way we build, scale, and deliver digital solutions.
 
-I am deeply passionate about cloud computing because I see it as the foundation of modern innovation. The ability to architect scalable, secure, and cost-effective solutions that can transform businesses fascinates me. My goal is to master the technical depths of cloud infrastructure while developing the strategic thinking required to design solutions that truly solve real-world problems. This passion drives my commitment to continuous learning and my determination to contribute meaningfully to the cloud ecosystem.
+I am deeply passionate about cloud computing because I see it as the foundation of modern innovation. The ability to design scalable, secure, and cost-effective solutions that solve real-world problems is what motivates me to keep learning and improving.
 
 ## 🚀 About Me
+Background
 
-### Background
+My professional background is in administrative work, where I developed strong organizational skills, attention to detail, and the ability to work efficiently under pressure. While this experience was non-technical, it helped me build discipline and a strong work ethic.
 
-My professional background is in administrative work, where I developed strong organizational skills, attention to detail, and the ability to work efficiently under pressure. While my experience was non-technical, I've always been curious about technology and how things work behind the scenes. This curiosity led me to take the leap into cloud computing!
+I have always been curious about technology, which led me to transition into cloud computing. I am now focused on building practical, hands-on skills in cloud architecture and deployment.
 
-I'm naturally hardworking, honest, and kind. I believe in giving my best to everything I do, and I'm committed to continuous learning and growth. My journey into cloud computing represents a deliberate career pivot toward technology. What sets me apart is my approach to learning—I don't just aim to understand how services work, but why certain architectural decisions matter. I'm building my expertise with a user-centric mindset, always considering how technical solutions translate into business value and improved user experiences.
+## 🎯 AWS re/Start Journey
 
-### AWS re/Start Journey
+I completed the AWS re/Start program, an intensive training experience that introduced me to cloud computing fundamentals and hands-on AWS services.
 
-I recently completed the AWS re/Start program, an intensive training experience that equipped me with foundational cloud computing skills. I joined the AWS re/Start program to gain hands-on cloud computing skills and launch a career in the rapidly growing tech industry 
+Through this program, I gained:
 
-Through this program i gained:
+Practical knowledge of core AWS services and their real-world applications
+Understanding of cloud security, architecture, and cost management
+Hands-on experience with cloud problem-solving and system design
+Professional communication and teamwork skills
+## 🎓 Certifications
+AWS Certified Cloud Practitioner
+Earned through the AWS re/Start Programme (Praesignis)
+This certification validated my understanding of AWS cloud concepts, core services, security, architecture, and pricing.
+Microsoft Certified: Azure Fundamentals (AZ-900)
+Completed through the YES4Youth Programme
+This certification gave me a strong foundation in Azure services, cloud concepts, governance, and pricing.
 
-- Practical knowledge of core AWS services and their real-world applications
-- Understanding of cloud security, cost management, and operational best practices
-- Hands-on experience with cloud problem-solving and architecture design
-- Professional development in technical communication, teamwork, and presenting solutions
-
-This comprehensive training provided me with both the technical skills and practical mindset needed to work effectively in cloud environments. I'm now seeking an entry-level cloud role where I can apply what I've learned, contribute to meaningful projects, and develop the expertise required to advance toward a Cloud Solutions Architect position.
-
-## 🎯 Career Goals
-
-**Short-term:** I'm seeking opportunities as a Cloud Support Specialist or Junior Cloud Engineer where I can apply my AWS knowledge and continue learning.
-
-**Long-term:** My aspiration is to become an AWS Solutions Architect, helping organizations solve real-world problems through cloud technology.
-
-**What excites me:**
-- Cloud infrastructure and architecture
-- Security and best practices
-- Automation and efficiency
-- Helping businesses migrate to the cloud
-- Continuous learning and growth
 
 ## 🏆 AWS Badges
 
@@ -45,186 +38,67 @@ This comprehensive training provided me with both the technical skills and pract
 <img width="282" height="295" alt="Screenshot (2000)" src="https://github.com/user-attachments/assets/2ea3b39b-c853-4571-aa6c-0394702f6a30" />
 
 <img width="300" height="340" alt="cloud practitiner" src="https://github.com/user-attachments/assets/cb317476-6424-4a11-b98b-fd2e75065f9b" />
+## ☁️ Azure Cloud Journey
+🚀 Azure Cloud Resume Challenge (Serverless Project)
 
+I built and deployed a full-stack serverless resume application on Microsoft Azure as part of the Azure Cloud Resume Challenge.
 
-## 🛠️ Skills & Technologies
+## 🧱 What I built:
+A static resume website hosted on Azure Blob Storage
+A backend API using Azure Functions
+A visitor counter using Azure Cosmos DB
+Monitoring and logging with Application Insights
+A CI/CD pipeline using GitHub Actions
+🏗️ Architecture highlights:
+Fully serverless cloud architecture
+Event-driven backend design
+Automated deployment pipeline
+Cloud-native integration across Azure services
+🔗 Live Demo:
 
-### Cloud Computing (AWS)
-- Amazon EC2 (Virtual Servers)
-- Amazon S3 (Storage Solutions)
-- Amazon RDS & DynamoDB
-- VPC & Networking
-- IAM (Identity and Access Management)
-- Auto Scaling & Load Balancing
-- CloudFront (Content Delivery)
-- Route 53 (DNS Management)
-- Certificate Manager
-- Cloud Economics & Cost Optimization
+https://resumerg9ec1.z1.web.core.windows.net/
 
-### Linux & Networking
-- Command line basics
-- File management and permissions
-- Bash scripting essentials
-- IP addressing and subnets
-- VPC configuration
-- Security groups and firewalls
-- Network troubleshooting
+💻 Source Code:
 
-### Professional Skills
-- Problem-Solving
-- Attention to Detail
-- Quick Learner
-- Self-Motivated
-- Adaptability
-- Effective Communication
-- Collaboration
+https://github.com/your-azure-repo
 
-## 🎓 Education & Training
+📂 AWS Projects
+1. Static Website Hosting on AWS
 
-**AWS re/Start Program** - 12-Week Intensive Cloud Computing Training
-- Completed hands-on labs and assessments
-- AWS Cloud Quest: 12 quests completed
-- AWS Cloud Practitioner certification preparation
+I hosted a static website using Amazon S3, CloudFront, Route 53, and AWS Certificate Manager to deliver secure HTTPS content globally.
 
-**Diploma in Information Technology**
-- Foundational IT principles and concepts
+🔗 https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Static-Website/Marble-Bistro.md
 
-## 📂 Featured Project
+2. 3D E-Commerce Platform Architecture
 
-## Project 1. Static Website Hosting on AWS
+I designed a scalable AWS architecture using EC2/Lambda, S3, RDS/DynamoDB, and Elastic Load Balancer for a global e-commerce system.
 
-This project demonstrates the migration of a static website to AWS cloud infrastructure, showcasing how modern web content can be delivered globally with high performance, security, and cost-efficiency. The objective was to architect a complete hosting solution using AWS managed services, implementing industry best practices for static content delivery.
+🔗 https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/3D-Aarchitecture/3D-design.md
 
-**What we Built:**
+3. Amazon Lex Chatbot
 
-A fully functional static website hosted entirely on AWS, featuring:
-- Secure HTTPS delivery with SSL/TLS encryption
-- Global content distribution for optimal load times
-- Custom domain configuration with professional DNS management
-- Cost-optimized architecture using AWS Free Tier services
+I built an interactive quiz chatbot using Amazon Lex and AWS Lambda with dynamic response handling and conversational flow.
 
-## Some of the AWS Services Utilized:**
+🔗 https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Lex-Chatbot/chatbot.md
 
-- **Amazon S3** – Object storage configured for static website hosting with properly secured bucket policies
-- **Amazon CloudFront** – Content Delivery Network (CDN) for caching and accelerated global content delivery
-- **AWS Route 53** – DNS service for custom domain routing and traffic management
-- **AWS Certificate Manager** – Free SSL/TLS certificates for secure HTTPS connections
+4. Serverless Image Recognition Pipeline
 
-**Technical Implementation:**
+I created an event-driven image recognition system using S3, Lambda, and Amazon Rekognition to automatically analyze uploaded images.
 
-This project required me to understand how multiple AWS services integrate to create a cohesive solution. We configured an S3 bucket with static website hosting enabled, ensuring proper public access permissions while maintaining security best practices. We then created a CloudFront distribution to serve content from multiple edge locations worldwide, significantly reducing latency for global users.
+🔗 https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Serverless-Image-Recognition/AWS%20Serverless%20Image%20Recognition%20Pipeline.md
 
-The integration of Route 53 allowed me to configure a custom domain with proper DNS records, while Certificate Manager provided SSL/TLS certificates to enable HTTPS—a critical requirement for modern web security. We configured origin access identity to ensure CloudFront could access S3 content while keeping the bucket itself private, demonstrating the security principle of least privilege.
-
-
- https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Static-Website/Marble-Bistro.md
-
-## Project 2. Design a 3D E-Commerce Platform Architecture on AWS
-
-The cloud architecture for the 3D e-commerce platform is designed using AWS managed services to ensure high availability, scalability, performance, security, and cost efficiency. The system uses a globally distributed content delivery layer, scalable compute resources, secure data stores, and automated monitoring tool
-
-## What we did
-This project was a group effort completed alongside my fellow team members. We worked together to plan the architecture, choose the AWS services, and create all diagrams and documentation.
-
-## Some of the AWS Services Utilized:**
-
-- Amazon S3 for 3D asset storage
-- CloudFront for content delivery
-- EC2 / AWS Lambda for backend compute
-- RDS / DynamoDB for product and customer data
-- Elastic Load Balancer (ELB) for traffic distribution
-- Route 53 for domain management
-- CloudWatch & Trusted Advisor for monitoring and optimization
-
-## Technical Implementation
-
-For this project, our team integrated several AWS services to build a scalable and efficient 3D e-commerce architecture. We used Amazon S3 to store 3D assets securely, paired with CloudFront to deliver content globally with low latency. Route 53 was configured for domain management, while Certificate Manager handled SSL/TLS certificates to ensure secure HTTPS access.
-
-We implemented EC2 with Auto Scaling (or Lambda for lighter workloads) behind an Elastic Load Balancer to support backend processing and handle traffic spikes. RDS or DynamoDB provided reliable, multi-AZ database storage. CloudWatch and Trusted Advisor were used to monitor performance, optimize cost, and reinforce best security practices across the environment.
-
-
- https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/3D-Aarchitecture/3D-design.md
-
-
- # Project 3: Amazon Lex chatbot
-
-This project demonstrates how to build a conversational quiz bot using Amazon Lex that tests learners on their knowledge of Amazon S3. It showcases chatbot design, intent handling, and interactive learning using AWS cloud services.
- 
- # What we did
-Built an interactive quiz chatbot using AWS Lambda and Amazon Lex that tests users' knowledge of Amazon S3. The bot guides users through a 10-question quiz with personalized feedback and scoring
-
-# Some of the AWS services used
-
-- Amazon lambda
-- Amazon lex
-
-# Technical implementations
-
-- Built a quiz chatbot using Amazon Lex with custom intents and sample utterances
-- Implemented quiz logic to validate user responses and control conversation flow
-- Integrated AWS Lambda to process user answers and return dynamic responses to Amazon Lex
-
-https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Lex-Chatbot/chatbot.md
-
-
-# Project 4. Serverless Image Recognition Pipeline on AWS
-This project demonstrates how I deployed a fully automated image recognition system on AWS. My objective was to build an event-driven pipeline that analyzes images the moment they are uploaded, using AWS artificial intelligence — with no servers to manage.
-
-# What I Built
-A serverless image recognition pipeline on AWS, featuring:
-
-- Automatic image analysis triggered instantly on file upload
-- AI-powered label detection identifying objects, people, and fine details
-- Secure service communication using IAM least-privilege roles
-- Real-time logging and monitoring through CloudWatch
-
-
-# AWS Services I Used
-
-- Amazon S3 – I used S3 to store uploaded images and trigger the pipeline automatically on each upload
-- AWS Lambda – I wrote a Python function that runs serverlessly in response to S3 events, with no infrastructure required
-- Amazon Rekognition – I connected this AWS AI service to analyze each image and return detected labels with confidence scores
-- AWS IAM – I created a role that grants Lambda only the exact permissions needed to access S3, Rekognition, and CloudWatch
-- Amazon CloudWatch – I used this to capture all logs, results, and execution metrics for every function run
-
-
-# How I Built It
-- I configured an S3 bucket to automatically invoke my Lambda function whenever a new image is uploaded. I wrote the Lambda function in Python using the boto3 SDK, which passes the image directly to Amazon Rekognition and logs the results to CloudWatch. I scoped the IAM execution role to only three policies — AmazonS3ReadOnlyAccess, AmazonRekognitionFullAccess, and AWSLambdaBasicExecutionRole — following the principle of least privilege throughout.
-- When I tested it by uploading a portrait photograph, Rekognition returned the labels: Face, Head, Person, Photography, Portrait, Adult, Male, Man, Baby, and Earring — showing me how the AI identifies both broad categories and fine details within a single image. The function ran with a 100% success rate and zero errors.
-
-# What I Learned
-
-- Event-driven design — I saw firsthand how services can react automatically to uploads with no manual steps
-- Serverless computing — I deployed and ran code without provisioning, patching, or managing any servers
-- Security by design — I practiced building IAM roles that enforce least-privilege access across all services
-- Observability — I used CloudWatch to monitor every result and metric from every invocation in real time
-
-https://github.com/keketso-prog/AWS-RE-START-JOURNEY/blob/main/Projects/Serverless-Image-Recognition/AWS%20Serverless%20Image%20Recognition%20Pipeline.md  
-  
 ## 💪 What I Bring
+Dedication: I don’t give up when things get difficult
+Reliability: I can be trusted to deliver quality work
+Growth mindset: I am always eager to learn and improve
+Attention to detail: Developed through my administrative background
+## 🎯 Career Goals
+Short-term: I am seeking a role as a Cloud Support Engineer or Junior Cloud Engineer
+Long-term: My goal is to become a Cloud Solutions Architect
+🤝 Let’s Connect!
 
-- **Dedication:** I don't give up when things get tough
-- **Reliability:** You can count on me to deliver
-- **Growth Mindset:** Always eager to learn and improve
-- **Attention to Detail:** Developed through my administrative background
-
-
-## 📈 My Journey
-
-My journey into cloud computing is a continuous path of learning and growth. This profile represents the foundation I'm building—a testament to my dedication and the practical skills I'm developing through the AWS re/Start program. I am excited to apply this knowledge in a professional environment, collaborate with experienced cloud professionals, and contribute to building innovative solutions on the AWS platform.
-
-As I continue this journey, I'm committed to expanding my technical expertise, taking on more complex architectural challenges, and ultimately becoming the kind of Cloud Solutions Architect who can bridge the gap between business needs and technical excellence.
-
-
-
-## 🤝 Let's Connect!
-
-I'm always eager to connect with fellow cloud enthusiasts, mentors, and professionals in the tech industry. Whether you'd like to discuss cloud technologies, share learning resources, or explore collaboration opportunities, feel free to reach out.
-
-**📧 Email:** keketsomakhoali93@gmail.com  
-**💼 LinkedIn:** https://www.linkedin.com/in/keketso-bakaqane-674066219/
-
-**📍 Location:** Johannesburg, South Africa
-
+📧 Email: keketsomakhoali93@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/keketso-bakaqane-674066219/
+📍 Location: Johannesburg, South Africa
 
 
